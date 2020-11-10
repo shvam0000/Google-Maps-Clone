@@ -6,3 +6,6 @@ This is a google maps clone using Mapbox.
 - CSS
 - JS
 - Mapbox
+
+## Deployment
+> Deployed at https://maps-google-clone.netlify.app
